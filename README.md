@@ -7,3 +7,9 @@ Aniruddha here, just starting off putting out a body of work. This might nnot be
 
 Thanks. 
 See you later.
+
+-- Update 1
+--
+-- Turns out code that makes money is kept in private repositories and 
+-- doesn't show up on Public githubs when you exit the companies.
+--
